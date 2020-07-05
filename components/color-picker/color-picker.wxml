@@ -1,0 +1,2 @@
+<!--components/color-picker/color-picker.wxml-->
+<image src="src/icon_color_selector.png" style="{{imageStyle}}" bindtap="_selectColor"></image>
